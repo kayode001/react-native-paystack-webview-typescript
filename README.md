@@ -1,22 +1,18 @@
 # React-Native-Paystack-WebView typescript
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
-
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
 The package allows you accept payment using paystack and guess what , it doesn't require any form of linking, just install and begin to use .
 
 ### [](https://github.com/just1and0/React-Native-Paystack-WebView#installation)Installation
 
 Add React-Native-Paystack-WebView to your project by running;
 
-`npm install react-native-paystack-webview`
+`npm install react-native-paystack-webview-typescript
+`
 
 or
 
-`yarn add react-native-paystack-webview`
+`yarn add react-native-paystack-webview-typescript
+`
 
 ### **One more thing**
 
@@ -24,13 +20,13 @@ To frontload the installation work, let's also install and configure dependencie
 
 run
 
-`yarn add react-native-webview`
+`yarn add react-native-webview-typescript`
 
 for IOS: `cd iOS && pod install && cd ..`
 
 for expo applications run;
 
-`expo install react-native-webview`
+`expo install react-native-webview-typescript`
 
 and that's it, you're all good to go!
 
